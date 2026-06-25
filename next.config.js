@@ -11,6 +11,10 @@ const config = withPWA({
   // ✅ REQUIRED for GitHub Pages static export
   output: "export",
 
+  images: {
+    unoptimized: true,
+  },
+
   pwa: {
     dest: "public",
     disable: process.env.NODE_ENV === "development",
