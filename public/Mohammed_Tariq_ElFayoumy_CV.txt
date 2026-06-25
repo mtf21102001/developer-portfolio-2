@@ -1,0 +1,65 @@
+Mohammed Tariq El-Fayoumy
+Full Stack Developer | React.js, Angular, Node.js & Python Integrations
+Cairo, Egypt (Open to Relocation to KSA / Gulf)
+
+📧 [mohaedelfayoumy@gmail.com](mailto:mohaedelfayoumy@gmail.com) | 📞 [+20 1011497266](https://wa.me/201011497266) (WhatsApp)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-elfayoumy-66548222a/) | 💻 [GitHub](https://github.com/m21102001)
+
+Professional Summary
+Versatile Full Stack Developer with solid expertise building scalable web applications using React.js, Next.js, Angular, Node.js, and NestJS. 
+Leverages Python to design high-performance integrations, data automation pipelines, and backend system optimizations. 
+Proven track record of delivering enterprise-grade travel, tourism, ERP, CRM, and integration platforms. 
+Highly skilled in API optimization, state management, and modern software architectures.
+
+Professional Experience
+
+Egypt Express Travel | Mid-Level Full Stack Developer
+May 2025 – Present | Cairo, Egypt
+- Multi-Gateway Travel Middleware (Python): Connected SiteMinder, WuBook, Travelgate, and RateGain channel managers with Juniper by building a custom Python broker that maps incompatible API payloads, handles rate limits, and syncs reservations asynchronously with full system audits.
+- Custom Enterprise CRM (Angular, NestJS & Node.js): Replaced legacy paper-based workflows by building a company-wide CRM that automates HR requests/approvals, integrates a tasks-tracking engine for delivery monitoring, manages corporate assets/gifts inventory, and secures access via custom Role-Based Access Control (RBAC).
+- B2C Booking Portal - [eetbooking.com](https://eetbooking.com) (React, Next.js & Node.js): Engineered a public-facing travel booking application integrated with National Bank of Egypt (NBE) payment gateway, featuring a secure admin dashboard to track booking requests, manage reservation histories, and audit payment transactions.
+- Zoho Desk Customer Support Sync (Node.js): Streamlined customer support tracking by integrating Zoho Desk APIs to build a live, auto-updating dashboard that monitors open/closed ticket lifecycles and support replies daily.
+- Juniper Booking Engine Uploader (Python & React): Automated contract room-rate submissions to Juniper's Spanish booking engine via an Excel-uploader tool that manages rates, allotments, releases, restrictions, and supplements, backed by user permission control and a full activity audit log.
+- Recruitment Assessment System (React & Node.js): Designed and deployed a live candidate screening and evaluation portal ([Live Portal](https://egypt-express-recruitment-assessment.netlify.app/)) that automates HR hiring tests, monitors candidate attempts, and displays real-time score statistics.
+- Sage 300 Financial Reporting Tools (Python): Developed Python-based reporting utilities that query Sage 300 databases and automate financial statement generation including debit/credit reports and opening/closing balances.
+- Automated Excel Stop-Sale Parser (Python & React): Prevented booking over-allocations by developing a smart Excel reader that parses hotel StopSale sheets, compares changes with database historical records, and automatically updates Juniper room availability upon verification with full audit tracking.
+
+Elbaat | Frontend Developer (E-Commerce Specialist)
+Jan 2023 – May 2025 | Mansoura, Egypt (KSA Market)
+- Storefront Customization (Salla & Zid): Developed and customized responsive storefronts for KSA-based e-commerce brands (including [Lior](https://lior-sa.com), [Lamha](https://lamha-sa.com), and [Battal](https://battalstore.com)) on Salla and Zid platforms using HTML5, CSS3, Sass, and JavaScript, tailoring themes and layouts to business requirements.
+- Interactive UI Development: Built custom product showcases, navigation components, promotional sections, and interactive user interface elements for fashion, cosmetics, and retail stores to improve user engagement and shopping experience.
+- Marketing & Analytics Integrations: Implemented third-party tracking and marketing tools including Meta Pixel, Snapchat Pixel, Google Analytics, customer support widgets, and custom JavaScript integrations for conversion tracking and campaign monitoring.
+- Performance & Optimization: Optimized storefront performance, improved Core Web Vitals, enhanced mobile responsiveness, and ensured cross-browser compatibility across modern devices and platforms.
+
+Selected Projects — Egyptian Armed Forces
+
+- Dar Al-Mashaa (Armed Forces Management System): Built comprehensive dashboards, integrated Laravel microservice APIs, and supported warehouse, hotel, and restaurant management modules using React.js/Angular, Redux/NgRx, and Material UI.
+- Tanzeem & Idara (Armed Forces Personnel Registry): Developed interactive data visualization dashboards and custom reporting components for military personnel and vehicle tracking using React.js/Angular, RxJS, and ASP.NET backend integration.
+
+Freelance Projects
+
+- HZ Medical CRM: Developed the complete frontend using React.js for an injury treatment center's booking system; designed patient profile creation workflows, appointment scheduling, and medical history management modules for storing radiology scans, lab results, and patient histories.
+- Cambridge Gold E-Commerce (Salah El-Gemaz): Developed the complete React.js frontend and admin dashboard for a Kuwait-based gold and silver trading e-commerce platform, enabling live price tracking (KWD), product catalog management, and order monitoring.
+
+
+Technical Skills
+
+- Programming Languages: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL
+- Frontend Technologies: React.js, Next.js, Angular, Redux Toolkit, NgRx, RxJS, React Query, Material UI (MUI), Ant Design, Bootstrap, Sass/SCSS
+- Backend Technologies: Node.js, NestJS, Express.js, RESTful APIs, JWT Authentication, WebSockets (Socket.io)
+- Databases: MongoDB, MySQL, PostgreSQL, SQL Server
+- Tools, APIs & Integrations: Git/GitHub, Docker, Postman, Swagger, Zoho Desk API, Juniper Booking API, Sage 300, Channel Managers (SiteMinder, WuBook, Travelgate, RateGain) Soap, XML, Excel Automations, i18n
+- Architecture & Methodologies: Clean Architecture, RESTful Microservices, Role-Based Access Control (RBAC), Performance Optimization, Agile/Scrum
+
+Education & Certifications
+
+- B.Sc. in Computer Science: Al Shorouk Academy (2019 – 2023)
+- Node.js (The Complete Bootcamp): Udemy (Jul 2023 – Oct 2023)
+- Full-Stack Diploma: AMIT Learning (Aug 2022 – Nov 2022)
+- Frontend Advanced Track: FWD (Jan 2022 – Apr 2022)
+
+Languages
+
+- Arabic: Native
+- English: Professional Working Proficiency
+
