@@ -8,13 +8,8 @@ import withPWA from "next-pwa";
 const config = withPWA({
   reactStrictMode: true,
 
-  // ✅ REQUIRED for Docker production
-  output: "standalone",
-
-  i18n: {
-    locales: ["en"],
-    defaultLocale: "en",
-  },
+  // ✅ REQUIRED for GitHub Pages static export
+  output: "export",
 
   pwa: {
     dest: "public",
