@@ -11,6 +11,8 @@ const config = withPWA({
   // ✅ REQUIRED for GitHub Pages static export
   output: "export",
 
+  basePath: "/developer-portfolio-2",
+
   images: {
     unoptimized: true,
   },

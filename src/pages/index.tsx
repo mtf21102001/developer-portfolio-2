@@ -216,7 +216,7 @@ export default function Home() {
             className="mt-14 h-full w-full xl:mt-0"
           >
             <Suspense fallback={<span>Loading...</span>}>
-              <Spline scene="/assets/scene.splinecode" />
+              <Spline scene="/developer-portfolio-2/assets/scene.splinecode" />
             </Suspense>
           </div>
         </section>
@@ -315,7 +315,7 @@ export default function Home() {
                               <Link href={project.href} target="_blank" className="block w-full h-full relative">
                                 {project.image.endsWith(".webm") ? (
                                   <video
-                                    src={project.image}
+                                    src={"/developer-portfolio-2" + project.image}
                                     autoPlay
                                     loop
                                     muted
@@ -336,7 +336,7 @@ export default function Home() {
                               <div className="w-full h-full relative">
                                 {project.image.endsWith(".webm") ? (
                                   <video
-                                    src={project.image}
+                                    src={"/developer-portfolio-2" + project.image}
                                     autoPlay
                                     loop
                                     muted
